@@ -1,1 +1,0 @@
-# pardax.github.io
