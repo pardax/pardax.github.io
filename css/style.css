@@ -8628,6 +8628,12 @@ h1, h2, h3, h4, h5,
         background: #3e64ff;
         color: #fff; }
 
+.ftco-about .override{
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
 .ftco-about .img-about {
   width: 100%;
   z-index: 0;
@@ -8930,6 +8936,12 @@ h1, h2, h3, h4, h5,
       color: #a0f669; }
   .ftco-hireme p {
     color: rgba(255, 255, 255, 0.9); }
+
+.project.override {
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+}
 
 .project {
   width: 100%;
